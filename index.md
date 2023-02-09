@@ -9,14 +9,14 @@ OOP Graphical Calculator built in Processing 4
 
 [Calculator Source Code](https://github.com/Brycet14/programming1portfolio/tree/main/src/calc)
 
-#### Space Game
+### Space Game
 OOP Arcade space shooter built in processing 4
 
 ![Running Game]()
 
 [Space game Source Code](https://github.com/Brycet14/programming1portfolio/tree/main/src/Spacegame)
 
-##### Screensaver
+### Screensaver
 OOP Moving screensaver
 
 ![Running Screensaver](https://github.com/Brycet14/programmingportfolio/blob/main/images/Scrensaverss.png)
