@@ -22,3 +22,10 @@ OOP Moving screensaver
 ![Running Screensaver](https://github.com/Brycet14/programmingportfolio/blob/main/images/Scrensaverss.png)
 
 [Screensaver Source Code](https://github.com/Brycet14/programmingportfolio/tree/main/src/screensaver)
+
+### Pig Latin Translator
+OOP Takes user input in form of a word and translates it to pig latin
+
+![Running Translator]()
+
+[Translator Source Code]()
